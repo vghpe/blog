@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dev on</title><link>https://vghpe.github.io/blog/tags/dev/</link><description>Recent content in dev on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 18:26:20 +0000</lastBuildDate><atom:link href="https://vghpe.github.io/blog/tags/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Making this blog</title><link>https://vghpe.github.io/blog/posts/makingthisblog/</link><pubDate>Sun, 04 Aug 2024 18:26:20 +0000</pubDate><guid>https://vghpe.github.io/blog/posts/makingthisblog/</guid><description>&lt;p>Inspired by Hundred Rabbits art collective wiki and log site, the intention of this page is to have a lightweight way to track and log creative output, ideas, doodles.&lt;/p>
+&lt;p>I had a couple of wants in mind:&lt;/p>
+&lt;ul>
+&lt;li>Zero cost to run and maintain.&lt;/li>
+&lt;li>Full costumization control of the page.&lt;/li>
+&lt;li>Write, posts and attach images from my phone&lt;/li>
+&lt;li>Controlled easily with bash commands.&lt;/li>
+&lt;/ul></description></item></channel></rss>
