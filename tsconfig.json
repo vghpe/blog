@@ -7,9 +7,16 @@
     "noEmitOnError": false,
     "skipLibCheck": true,
     "removeComments": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "outFile": "static/games/jamble/jamble.js"
   },
-  "include": [
-    "static/games/jamble/jamble.ts"
+  "files": [
+    "static/games/jamble/constants.ts",
+    "static/games/jamble/countdown.ts",
+    "static/games/jamble/obstacle.ts",
+    "static/games/jamble/wiggle.ts",
+    "static/games/jamble/player.ts",
+    "static/games/jamble/game.ts",
+    "static/games/jamble/boot.ts"
   ]
 }
