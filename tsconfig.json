@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "none",
+    "lib": ["DOM", "ES2018"],
+    "strict": true,
+    "noEmitOnError": false,
+    "skipLibCheck": true,
+    "removeComments": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "static/games/jamble/jamble.ts"
+  ]
+}

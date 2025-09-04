@@ -9,7 +9,8 @@
   "scripts": {
     "start": "npx indiekit serve --config .indiekitrc.js",
     "postinstall": "patch-package",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:jamble": "tsc -p tsconfig.json"
   },
   "repository": {
     "type": "git",
@@ -29,7 +30,8 @@
     "@indiekit/indiekit": "^1.0.0-beta.21",
     "@indiekit/preset-hugo": "^1.0.0-beta.20",
     "@indiekit/store-file-system": "^1.0.0-beta.21",
+    "@indiekit/store-github": "^1.0.0-beta.21",
     "@indiekit/syndicator-bluesky": "^1.0.0-beta.22",
-    "@indiekit/store-github": "^1.0.0-beta.21"
+    "typescript": "^5.9.2"
   }
 }
